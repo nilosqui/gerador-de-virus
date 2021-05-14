@@ -1,0 +1,1 @@
+console.log ("link gerado com sucesso (copie e cole) https://adlinkweb.com/ifunnybr")
